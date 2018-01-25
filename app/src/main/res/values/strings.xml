@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Classy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Day Schedule</string>
+    <string name="title_notifications">Week Schedule</string>
+    <string name="main_timeLeft">00:00:00</string>
+</resources>
